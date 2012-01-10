@@ -1,0 +1,9 @@
+List of Process performed while transferring search to cralwer1: (no need to be in order)
+
+PPT Crawler Ind
+
+projects needed: [pptCrawler helper, ppt Crawler, pptCrawlerLib]
+main form calls two classes: 
+1. Crawls drives and gets the UniqueImageXml file.
+2. Process Unique Image xml file & stores all data in database & genera
+
